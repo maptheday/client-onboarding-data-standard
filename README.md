@@ -1,4 +1,4 @@
-# Client Onboarding Data Standard (CODS)
+# Pooper Scooper 'Client Onboarding Data Standard' (CODS)
 
 > An open standard for pet waste management service client onboarding
 
