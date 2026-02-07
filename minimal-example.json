@@ -1,0 +1,22 @@
+{
+  "standard": "PSOS",
+  "version": "1.0",
+  "timestamp": "2024-02-06T14:30:00Z",
+  "client": {
+    "contact": {
+      "first_name": "Sarah",
+      "last_name": "Johnson",
+      "email": "sarah@example.com",
+      "phone": "919-555-0123"
+    },
+    "service_address": {
+      "street": "123 Oak Street",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27601"
+    }
+  },
+  "service_request": {
+    "service_type": "recurring"
+  }
+}
